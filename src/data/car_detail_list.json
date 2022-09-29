@@ -1,0 +1,172 @@
+[
+    {
+        "name": "שברולוט ספארק LT",
+        "img": "../media/car-list-lising/car1.png",
+        "address": "נתניה",
+        "proposal": 300,
+        "adds": [
+            "הצעה לבדיקת גיר",
+            "אחריות יצרן",
+            "מנוע ושילדה"
+        ],
+        "manYear": 2022,
+        "km": 3000,
+        "yad": 2,
+        "girType": "אוטומטי",
+        "engineSize": "1399",
+        "engineType": "בנזין",
+        "balut": "השכרה",
+        "color": "לבן",
+        "model": "ספארק LT",
+        "price": 62900,
+        "contactName": "עידן קלינסקי",
+        "tel": "052-6481888"
+    },
+    {
+        "name": "סקודה אוקטביה AMBITION",
+        "img": "../media/car-list-lising/car2.png",
+        "address": "אשדוד",
+        "proposal": 300,
+        "adds": [
+            "הצעה לבדיקת גיר",
+            "אחריות יצרן",
+            "מנוע ושילדה"
+        ],
+        "manYear": "2022",
+        "km": 3000,
+        "yad": 2,
+        "girType": "אוטומטי",
+        "engineSize": "1399"
+    },
+    {
+        "name": "יונדאי טוסון PRIME PLUS",
+        "img": "../media/car-list-lising/car3.png",
+        "address": "אילת",
+        "proposal": 300,
+        "adds": [
+            "הצעה לבדיקת גיר",
+            "אחריות יצרן",
+            "מנוע ושילדה"
+        ],
+        "manYear": "2022",
+        "km": 3000,
+        "yad": 2,
+        "girType": "אוטומטי",
+        "engineSize": "1399",
+        "engineType": "בנזין"
+    },
+    {
+        "name": "פורד פוקוס FORD",
+        "img": "../media/car-list-lising/car4.png",
+        "address": "נשר",
+        "proposal": 300,
+        "adds": [
+            "הצעה לבדיקת גיר",
+            "אחריות יצרן",
+            "מנוע ושילדה"
+        ],
+        "manYear": "2022",
+        "km": 3000,
+        "yad": 2,
+        "girType": "אוטומטי",
+        "engineSize": "1399",
+        "engineType": "בנזין"
+    },
+    {
+        "name": "אאודי Q5 DESIGNN LMTD",
+        "img": "../media/car-list-lising/car5.png",
+        "address": "נתניה",
+        "proposal": 300,
+        "adds": [
+            "הצעה לבדיקת גיר",
+            "אחריות יצרן",
+            "מנוע ושילדה"
+        ],
+        "manYear": "2022",
+        "km": 3000,
+        "yad": 2,
+        "girType": "אוטומטי",
+        "engineSize": "1399",
+        "engineType": "בנזין"
+    },
+    {
+        "name": "מאזדה SPORT",
+        "img": "../media/car-list-lising/car6.png",
+        "address": "נתניה",
+        "proposal": 300,
+        "adds": [
+            "הצעה לבדיקת גיר",
+            "אחריות יצרן",
+            "מנוע ושילדה"
+        ],
+        "manYear": "2022",
+        "km": 3000,
+        "yad": 2,
+        "girType": "אוטומטי",
+        "engineSize": "1399"
+    },
+    {
+        "name": "רנו קפצ'ור INTENSE ",
+        "img": "../media/car-list-lising/car7.png",
+        "address": "נתניה",
+        "proposal": 300,
+        "adds": [
+            "הצעה לבדיקת גיר",
+            "אחריות יצרן",
+            "מנוע ושילדה"
+        ],
+        "manYear": "2022",
+        "km": 3000,
+        "yad": 2,
+        "girType": "אוטומטי",
+        "engineSize": "1399"
+    },
+    {
+        "name": "מאזדה CX-5 LUXURY",
+        "img": "../media/car-list-lising/car8.png",
+        "address": "אשדוד",
+        "proposal": 300,
+        "adds": [
+            "הצעה לבדיקת גיר",
+            "אחריות יצרן",
+            "מנוע ושילדה"
+        ],
+        "manYear": "2022",
+        "km": 3000,
+        "yad": 2,
+        "girType": "אוטומטי",
+        "engineSize": "1399"
+    },
+    {
+        "name": "ב.מ.וו סדרה 530E LINE 5",
+        "img": "../media/car-list-lising/car9.png",
+        "address": "חדרה",
+        "proposal": 300,
+        "adds": [
+            "הצעה לבדיקת גיר",
+            "אחריות יצרן",
+            "מנוע ושילדה"
+        ],
+        "manYear": "2022",
+        "km": 3000,
+        "yad": 2,
+        "girType": "אוטומטי",
+        "engineSize": "1399"
+    },
+    {
+        "name": "אאודי Q5 DESIGN LMTD",
+        "img": "../media/car-list-lising/car10.png",
+        "address": "חיפה",
+        "proposal": 300,
+        "adds": [
+            "הצעה לבדיקת גיר",
+            "אחריות יצרן",
+            "מנוע ושילדה"
+        ],
+        "manYear": "2022",
+        "km": 3000,
+        "yad": 2,
+        "girType": "אוטומטי",
+        "engineSize": "1399"
+    }
+]
