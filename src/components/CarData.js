@@ -133,7 +133,6 @@ const CarData = () => {
         formik.touched.smod = true;
         return 
       }
-      console.log(value);
       try {
         
         const docRef = await addDoc(collection(db, "carDetail"), {
